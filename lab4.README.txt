@@ -1,1 +1,6 @@
-name, date, description
+Greg Basile, April 7, 2015
+
+Must be run on firefox.
+
+Used an image from one of my aircraft classes. Came out pretty well. Works the same as lab 3. 
+
